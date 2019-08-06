@@ -1,0 +1,19 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+O
+src/main/java/classes/User.java,4\7\47a19a2d50dd20fa5f956545a25e680040fc13d4
+R
+"src/main/java/classes/Article.java,8\3\839f890e4ce8a9cf2b93c59bd056a4a644ca99d9
+^
+.src/main/java/exceptions/ArticleException.java,0\0\00fe69ccaa8cfaa71c4bc11a722d67cce4597330
+R
+"src/main/java/classes/Storage.java,b\4\b4632006996ffe7c726bbe97f5cfca1cc28bec22
+Y
+)src/main/java/classes/UserController.java,0\5\059f9a2d922de2eb828cff02fdb273497d27a88e
+Z
+*src/main/java/classes/WebServiceClass.java,a\c\ac5bf096f0f6b4b10b844147c1169aa522d5d4b2
+a
+1src/main/java/interfaces/WebServiceInterface.java,3\5\3524da2f868f4c582f92ad48abda06964e7cd972
+O
+src/test/java/TestingClass.java,7\1\713fe97fb6f65dd72354d8fa385ef35ebc5d15d8
