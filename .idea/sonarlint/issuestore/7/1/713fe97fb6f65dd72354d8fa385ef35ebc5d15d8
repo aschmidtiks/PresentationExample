@@ -1,10 +1,0 @@
-
-Osquid:S1602_",Remove useless curly braces around statement(ÑæÛùÿÿÿÿ8 œ¦¸Æ-
-usquid:S00117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã±Ñÿÿÿÿÿ8î… ºÆ-
-nsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(Ù¦Ìíûÿÿÿÿ8èÉ·»Æ-
-vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÜì–úÿÿÿÿ8ôÉ©»Æ-
-Ysquid:S2209„"5Change this instance-reference to a static reference.(ÅáÉÉúÿÿÿÿ8ôÉ©»Æ-
-nsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(Ûœö¦üÿÿÿÿ8ËË ºÆ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÑS8¡·˜»Æ-
-qsquid:HiddenFieldCheck€"GRename "webServiceInterface" which hides the field declared at line 21.(¢¯ó·8ôÉ©»Æ-
-Ssquid:S2209;"5Change this instance-reference to a static reference.(®åäí8 œ¦¸Æ-

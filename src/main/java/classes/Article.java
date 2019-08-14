@@ -1,8 +1,8 @@
 package classes;
 
 public class Article {
-    String name;
-    int id;
+    public String name;
+    public int id;
 
     public Article(String name, int id){
         this.name = name;

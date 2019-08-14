@@ -1,7 +1,6 @@
 package classes;
 
 import exceptions.ArticleException;
-import interfaces.WebServiceInterface;
 
 import java.util.ArrayList;
 import java.util.List;

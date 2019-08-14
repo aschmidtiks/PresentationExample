@@ -1,8 +1,8 @@
 
+asquid:S1155">Use isEmpty() to check whether the collection is empty or not.(þ¥Þ¯þÿÿÿÿ8ÿüØ³Æ-
 ‘"squid:ClassVariableVisibilityCheck
 "WMake articleList a static final constant or non-public and provide accessors if needed.(¡è©’üÿÿÿÿ8ÿüØ³Æ-
-hsquid:UselessImportCheck"8Remove this unused import 'exceptions.ArticleException'.(Ÿú‚¸ÿÿÿÿÿ8ŒÐ’¸Æ-
-msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¸òÏ8ÿüØ³Æ-
-asquid:S1155">Use isEmpty() to check whether the collection is empty or not.(þ¥Þ¯þÿÿÿÿ8ÿüØ³Æ-
 |squid:S2293
 "YReplace the type specification in this constructor call with the diamond operator ("<>").(¡è©’üÿÿÿÿ8ÿüØ³Æ-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¸òÏ8ÿüØ³Æ-
+hsquid:UselessImportCheck"8Remove this unused import 'exceptions.ArticleException'.(Ÿú‚¸ÿÿÿÿÿ8ŒÐ’¸Æ-

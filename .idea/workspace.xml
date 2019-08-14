@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f5b478c-93ac-4e18-b3d8-1b0dd6c39528" name="Default" comment="" />
+    <list default="true" id="3f5b478c-93ac-4e18-b3d8-1b0dd6c39528" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/059f9a2d922de2eb828cff02fdb273497d27a88e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/059f9a2d922de2eb828cff02fdb273497d27a88e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/3524da2f868f4c582f92ad48abda06964e7cd972" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/3524da2f868f4c582f92ad48abda06964e7cd972" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/713fe97fb6f65dd72354d8fa385ef35ebc5d15d8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/713fe97fb6f65dd72354d8fa385ef35ebc5d15d8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/839f890e4ce8a9cf2b93c59bd056a4a644ca99d9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/839f890e4ce8a9cf2b93c59bd056a4a644ca99d9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac5bf096f0f6b4b10b844147c1169aa522d5d4b2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac5bf096f0f6b4b10b844147c1169aa522d5d4b2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4632006996ffe7c726bbe97f5cfca1cc28bec22" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4632006996ffe7c726bbe97f5cfca1cc28bec22" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classes/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classes/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classes/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classes/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classes/WebServiceClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classes/WebServiceClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfaces/WebServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interfaces/WebServiceInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestingClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestingClass.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,14 +25,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="TestingClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestingClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+            <state relative-caret-position="578">
+              <caret line="140" column="9" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#setupTests#0;class#TestingClass#0" />
+                <element signature="method#testSetup#0;class#TestingClass#0" />
                 <element signature="method#testArticleListNotEmpty#0;class#TestingClass#0" />
                 <element signature="method#testGetArticleAndReturnDummyWithInterface#0;class#TestingClass#0" />
                 <element signature="method#testGetArticleAndReturnDummyWithInjectedMocks#0;class#TestingClass#0" />
@@ -27,46 +42,9 @@
                 <element signature="method#testGetArticleException#0;class#TestingClass#0" />
                 <element signature="method#testArgThat#0;class#TestingClass#0" />
                 <element signature="method#testIncrementNumberOnSpyAndOnMock#0;class#TestingClass#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/classes/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#147#153#0" expanded="true" />
-                <element signature="method#UserController#0;class#UserController#0" />
-                <element signature="method#CreateUser#0;class#UserController#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Storage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/classes/Storage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#150#159#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebServiceInterface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/WebServiceInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#testArgumentCaptor#0;class#TestingClass#0" />
+                <element signature="method#testAnswer#0;class#TestingClass#0" />
+                <element signature="method#testVoidMethods#0;class#TestingClass#0" />
               </folding>
             </state>
           </provider>
@@ -75,13 +53,31 @@
       <file leaf-file-name="WebServiceClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/classes/WebServiceClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="102">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebServiceInterface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/WebServiceInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding>
-                <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Storage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/classes/Storage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,19 +93,29 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>answer</find>
+      <find>webServiceClass</find>
+      <find>Parameter</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/WebService.java" />
         <option value="$PROJECT_DIR$/src/main/java/classes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/classes/Article.java" />
         <option value="$PROJECT_DIR$/src/main/java/classes/User.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/exceptions/ArticleException.java" />
         <option value="$PROJECT_DIR$/src/main/java/interfaces/WebService.java" />
         <option value="$PROJECT_DIR$/src/main/java/classes/Storage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/classes/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/classes/argumentmatcher/ArticleMatcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/classes/Article.java" />
+        <option value="$PROJECT_DIR$/src/main/java/classes/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/interfaces/WebServiceInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/classes/WebServiceClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestingClass.java" />
@@ -132,11 +138,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1688" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="width" value="1696" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -210,12 +216,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="String name;&#9;null&#9;null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestCaseExample" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -229,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestingClass.testSetup">
+  <component name="RunManager" selected="JUnit.TestingClass.testIncrementNumberOnSpyAndOnMock">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -250,13 +260,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestingClass.testArgThat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestingClass.testAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PresentationExample" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestingClass" />
-      <option name="METHOD_NAME" value="testArgThat" />
+      <option name="METHOD_NAME" value="testAnswer" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -267,13 +277,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestingClass.testGetArticleException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestingClass.testArgumentCaptor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PresentationExample" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestingClass" />
-      <option name="METHOD_NAME" value="testGetArticleException" />
+      <option name="METHOD_NAME" value="testArgumentCaptor" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -301,13 +311,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestingClass.testSetup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestingClass.testVoidMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PresentationExample" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestingClass" />
-      <option name="METHOD_NAME" value="testSetup" />
+      <option name="METHOD_NAME" value="testVoidMethods" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -358,18 +368,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.TestingClass" />
-      <item itemvalue="JUnit.TestingClass.testGetArticleException" />
-      <item itemvalue="JUnit.TestingClass.testArgThat" />
+      <item itemvalue="JUnit.TestingClass.testArgumentCaptor" />
+      <item itemvalue="JUnit.TestingClass.testAnswer" />
+      <item itemvalue="JUnit.TestingClass.testVoidMethods" />
       <item itemvalue="JUnit.TestingClass.testIncrementNumberOnSpyAndOnMock" />
-      <item itemvalue="JUnit.TestingClass.testSetup" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestingClass.testSetup" />
         <item itemvalue="JUnit.TestingClass.testIncrementNumberOnSpyAndOnMock" />
+        <item itemvalue="JUnit.TestingClass.testArgumentCaptor" />
         <item itemvalue="JUnit.TestingClass" />
-        <item itemvalue="JUnit.TestingClass.testGetArticleException" />
-        <item itemvalue="JUnit.TestingClass.testArgThat" />
+        <item itemvalue="JUnit.TestingClass.testVoidMethods" />
+        <item itemvalue="JUnit.TestingClass.testAnswer" />
       </list>
     </recent_temporary>
   </component>
@@ -387,68 +397,67 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestingClass - 2019.08.06 at 16h 43m 59s.xml">
+    <history-entry file="TestingClass_testArgumentCaptor - 2019.08.07 at 13h 26m 27s.xml">
+      <configuration name="TestingClass.testArgumentCaptor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestingClass_testArgumentCaptor - 2019.08.07 at 13h 26m 43s.xml">
+      <configuration name="TestingClass.testArgumentCaptor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestingClass_testArgumentCaptor - 2019.08.07 at 13h 27m 39s.xml">
+      <configuration name="TestingClass.testArgumentCaptor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestingClass - 2019.08.07 at 13h 28m 29s.xml">
       <configuration name="TestingClass" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestingClass_testIncrementNumberOnSpyAndOnMock - 2019.08.06 at 16h 45m 33s.xml">
+    <history-entry file="TestingClass_testArgumentCaptor - 2019.08.07 at 15h 13m 17s.xml">
+      <configuration name="TestingClass.testArgumentCaptor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestingClass - 2019.08.07 at 16h 01m 03s.xml">
+      <configuration name="TestingClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestingClass - 2019.08.07 at 16h 55m 31s.xml">
+      <configuration name="TestingClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestingClass - 2019.08.08 at 12h 15m 12s.xml">
+      <configuration name="TestingClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestingClass_testArgumentCaptor - 2019.08.08 at 14h 13m 10s.xml">
+      <configuration name="TestingClass.testArgumentCaptor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestingClass_testIncrementNumberOnSpyAndOnMock - 2019.08.08 at 14h 52m 05s.xml">
       <configuration name="TestingClass.testIncrementNumberOnSpyAndOnMock" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestingClass_testIncrementNumberOnSpyAndOnMock - 2019.08.06 at 16h 46m 45s.xml">
-      <configuration name="TestingClass.testIncrementNumberOnSpyAndOnMock" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestingClass_testIncrementNumberOnSpyAndOnMock - 2019.08.06 at 16h 47m 00s.xml">
-      <configuration name="TestingClass.testIncrementNumberOnSpyAndOnMock" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestingClass_testIncrementNumberOnSpyAndOnMock - 2019.08.06 at 16h 47m 37s.xml">
-      <configuration name="TestingClass.testIncrementNumberOnSpyAndOnMock" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestingClass_testIncrementNumberOnSpyAndOnMock - 2019.08.06 at 16h 48m 19s.xml">
-      <configuration name="TestingClass.testIncrementNumberOnSpyAndOnMock" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestingClass_testIncrementNumberOnSpyAndOnMock - 2019.08.06 at 16h 50m 41s.xml">
-      <configuration name="TestingClass.testIncrementNumberOnSpyAndOnMock" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestingClass_testIncrementNumberOnSpyAndOnMock - 2019.08.06 at 16h 50m 55s.xml">
-      <configuration name="TestingClass.testIncrementNumberOnSpyAndOnMock" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestingClass_testSetup - 2019.08.06 at 16h 57m 13s.xml">
-      <configuration name="TestingClass.testSetup" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestingClass_testSetup - 2019.08.06 at 16h 57m 42s.xml">
-      <configuration name="TestingClass.testSetup" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1688" y="-8" width="1696" height="1066" extended-state="0" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32985386" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" weight="0.32995737" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26200417" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19402985" />
-      <window_info anchor="bottom" id="SonarLint" weight="0.32985386" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32985386" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32985386" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32995737" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09498956" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16075794" />
+      <window_info anchor="bottom" id="SonarLint" order="7" weight="0.32985386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32985386" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -456,24 +465,327 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/WebService.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestingClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="1751">
+          <caret line="140" column="9" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setupTests#0;class#TestingClass#0" />
+            <element signature="method#testSetup#0;class#TestingClass#0" />
+            <element signature="method#testArticleListNotEmpty#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleAndReturnDummyWithInterface#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleAndReturnDummyWithInjectedMocks#0;class#TestingClass#0" />
+            <element signature="method#testIsWebServiceOnlineWithSpy#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleException#0;class#TestingClass#0" />
+            <element signature="method#testArgThat#0;class#TestingClass#0" />
+            <element signature="method#testIncrementNumberOnSpyAndOnMock#0;class#TestingClass#0" />
+            <element signature="method#testArgumentCaptor#0;class#TestingClass#0" />
+            <element signature="method#testAnswer#0;class#TestingClass#0" />
+            <element signature="method#testVoidMethods#0;class#TestingClass#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classes.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/WebServiceClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/WebServiceInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestingClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="140" column="9" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setupTests#0;class#TestingClass#0" />
+            <element signature="method#testSetup#0;class#TestingClass#0" />
+            <element signature="method#testArticleListNotEmpty#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleAndReturnDummyWithInterface#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleAndReturnDummyWithInjectedMocks#0;class#TestingClass#0" />
+            <element signature="method#testIsWebServiceOnlineWithSpy#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleException#0;class#TestingClass#0" />
+            <element signature="method#testArgThat#0;class#TestingClass#0" />
+            <element signature="method#testIncrementNumberOnSpyAndOnMock#0;class#TestingClass#0" />
+            <element signature="method#testArgumentCaptor#0;class#TestingClass#0" />
+            <element signature="method#testAnswer#0;class#TestingClass#0" />
+            <element signature="method#testVoidMethods#0;class#TestingClass#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/WebServiceClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/WebServiceInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestingClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="140" column="9" lean-forward="true" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setupTests#0;class#TestingClass#0" />
+            <element signature="method#testSetup#0;class#TestingClass#0" />
+            <element signature="method#testArticleListNotEmpty#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleAndReturnDummyWithInterface#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleAndReturnDummyWithInjectedMocks#0;class#TestingClass#0" />
+            <element signature="method#testIsWebServiceOnlineWithSpy#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleException#0;class#TestingClass#0" />
+            <element signature="method#testArgThat#0;class#TestingClass#0" />
+            <element signature="method#testIncrementNumberOnSpyAndOnMock#0;class#TestingClass#0" />
+            <element signature="method#testArgumentCaptor#0;class#TestingClass#0" />
+            <element signature="method#testAnswer#0;class#TestingClass#0" />
+            <element signature="method#testVoidMethods#0;class#TestingClass#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/WebServiceClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/WebServiceInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestingClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setupTests#0;class#TestingClass#0" />
+            <element signature="method#testSetup#0;class#TestingClass#0" />
+            <element signature="method#testArticleListNotEmpty#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleAndReturnDummyWithInterface#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleAndReturnDummyWithInjectedMocks#0;class#TestingClass#0" />
+            <element signature="method#testIsWebServiceOnlineWithSpy#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleException#0;class#TestingClass#0" />
+            <element signature="method#testArgThat#0;class#TestingClass#0" />
+            <element signature="method#testIncrementNumberOnSpyAndOnMock#0;class#TestingClass#0" />
+            <element signature="method#testArgumentCaptor#0;class#TestingClass#0" />
+            <element signature="method#testAnswer#0;class#TestingClass#0" />
+            <element signature="method#testVoidMethods#0;class#TestingClass#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/WebServiceClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/WebServiceInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestingClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" column="9" lean-forward="true" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setupTests#0;class#TestingClass#0" />
+            <element signature="method#testSetup#0;class#TestingClass#0" />
+            <element signature="method#testArticleListNotEmpty#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleAndReturnDummyWithInterface#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleAndReturnDummyWithInjectedMocks#0;class#TestingClass#0" />
+            <element signature="method#testIsWebServiceOnlineWithSpy#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleException#0;class#TestingClass#0" />
+            <element signature="method#testArgThat#0;class#TestingClass#0" />
+            <element signature="method#testIncrementNumberOnSpyAndOnMock#0;class#TestingClass#0" />
+            <element signature="method#testArgumentCaptor#0;class#TestingClass#0" />
+            <element signature="method#testAnswer#0;class#TestingClass#0" />
+            <element signature="method#testVoidMethods#0;class#TestingClass#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exceptions/ArticleException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/WebServiceInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/WebServiceClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestingClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setupTests#0;class#TestingClass#0" />
+            <element signature="method#testSetup#0;class#TestingClass#0" />
+            <element signature="method#testArticleListNotEmpty#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleAndReturnDummyWithInterface#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleAndReturnDummyWithInjectedMocks#0;class#TestingClass#0" />
+            <element signature="method#testIsWebServiceOnlineWithSpy#0;class#TestingClass#0" />
+            <element signature="method#testGetArticleException#0;class#TestingClass#0" />
+            <element signature="method#testArgThat#0;class#TestingClass#0" />
+            <element signature="method#testIncrementNumberOnSpyAndOnMock#0;class#TestingClass#0" />
+            <element signature="method#testArgumentCaptor#0;class#TestingClass#0" />
+            <element signature="method#testAnswer#0;class#TestingClass#0" />
+            <element signature="method#testVoidMethods#0;class#TestingClass#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/WebServiceInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/WebServiceClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WebService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -488,87 +800,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/argumentmatcher/ArticleMatcher.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/classes/Article.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exceptions/ArticleException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#115#116#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classes/argumentmatcher/ArticleMatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classes/Storage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#150#159#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/classes/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#147#153#0" expanded="true" />
-            <element signature="method#UserController#0;class#UserController#0" />
-            <element signature="method#CreateUser#0;class#UserController#0" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classes/WebServiceClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/exceptions/ArticleException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
           <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/WebServiceInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="136">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classes/WebServiceClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestingClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+        <state relative-caret-position="578">
+          <caret line="140" column="9" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#setupTests#0;class#TestingClass#0" />
+            <element signature="method#testSetup#0;class#TestingClass#0" />
             <element signature="method#testArticleListNotEmpty#0;class#TestingClass#0" />
             <element signature="method#testGetArticleAndReturnDummyWithInterface#0;class#TestingClass#0" />
             <element signature="method#testGetArticleAndReturnDummyWithInjectedMocks#0;class#TestingClass#0" />
@@ -576,6 +864,9 @@
             <element signature="method#testGetArticleException#0;class#TestingClass#0" />
             <element signature="method#testArgThat#0;class#TestingClass#0" />
             <element signature="method#testIncrementNumberOnSpyAndOnMock#0;class#TestingClass#0" />
+            <element signature="method#testArgumentCaptor#0;class#TestingClass#0" />
+            <element signature="method#testAnswer#0;class#TestingClass#0" />
+            <element signature="method#testVoidMethods#0;class#TestingClass#0" />
           </folding>
         </state>
       </provider>
@@ -583,9 +874,80 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20438473" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PresentationExample</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: net.bytebuddy:byte-buddy-agent:1.9.10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

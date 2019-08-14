@@ -1,3 +1,4 @@
 
-Wsquid:S3400	"9Remove this method and declare a constant for this value.(¨é§€8ôëœµÆ-
+"squid:ClassVariableVisibilityCheck"SMake storage a static final constant or non-public and provide accessors if needed.(ıüÔƒÿÿÿÿÿ8ÙÍûÛÆ-
+’"squid:ClassVariableVisibilityCheck"XMake serverOnline a static final constant or non-public and provide accessors if needed.(»š¾ıÿÿÿÿ8Èã…Ç-
 "squid:ClassVariableVisibilityCheck"XMake randomNumber a static final constant or non-public and provide accessors if needed.(å‘ïç8„ÂŠ»Æ-
